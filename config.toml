@@ -1,4 +1,4 @@
-baseURL = "ql257.github.io"
+baseURL = "https://ql257.github.io/"
 title = "Qiwen Li"
 theme = "hugo-coder"
 languageCode = "en"
