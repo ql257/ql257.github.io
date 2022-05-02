@@ -13,7 +13,7 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "Qiwe (Krystal) Li"
+author = "Qiwen (Krystal) Li"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Qiwen's personal website"
 keywords = "blog,developer,personal"
