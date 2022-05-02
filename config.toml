@@ -1,8 +1,4 @@
-baseURL = "https://ql257.github.io"
-
-[module]
-[module.hugoVersion]
-min = "0.77.0"
+baseURL = ""
 
 title = "Qiwen Li"
 theme = "hugo-coder"
